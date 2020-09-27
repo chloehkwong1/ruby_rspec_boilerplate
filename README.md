@@ -5,7 +5,8 @@
 2. `bundle install`
 
 ## Running in terminal
-`rspec`to just run rspec.
+`rspec`to just run rspec.\
+
 `guard` to run rspec tests automatically.
 
 ## Useful Resources
