@@ -12,4 +12,3 @@ describe StatsCalc do
         end
     end
 end
-  
