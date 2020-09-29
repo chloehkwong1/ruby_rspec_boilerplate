@@ -10,6 +10,7 @@
 `guard` to run rspec tests automatically.
 
 `bundle exec standardrb` to run Standard.
+
 `bundle exec standardrb --fix` to autofix code. 
 
 ## Useful Resources
