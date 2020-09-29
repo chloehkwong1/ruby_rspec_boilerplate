@@ -7,7 +7,7 @@
 ## Running in terminal
 `rspec`to just run rspec.
 
-`guard` to run rspec tests automatically.
+`bundle exec guard` to run rspec tests automatically.
 
 `bundle exec standardrb` to run Standard.
 
