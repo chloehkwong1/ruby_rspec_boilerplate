@@ -4,5 +4,4 @@ source "https://rubygems.org"
 
 gem 'rspec'
 gem 'guard-rspec'
-gem 'rake'
-gem 'rubocop'
+gem 'standard', group: [:development, :test]
