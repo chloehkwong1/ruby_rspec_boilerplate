@@ -4,4 +4,5 @@ source "https://rubygems.org"
 
 gem 'rspec'
 gem 'guard-rspec'
-gem 'standard', group: [:development, :test]
+gem 'readapt', group: :development
+gem 'solargraph', group: :development
